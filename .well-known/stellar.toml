@@ -1,5 +1,5 @@
-﻿ACCOUNTS = [""GBDCQFOAEWH32XWR3AMK2M62HHZ2FGIV2UX7NHAYHGXIRPYIN2NBMVUQ""]
-DESCRIPTION = ""Token ALGA - 20 millones de unidades en Stellar, 100% descentralizado.""
-IMAGE = ""https://copper-magnificent-swallow-68.mypinata.cloud/ipfs/bafkreihtypoituhildswlao4lcu4yuzpea2ani5qzaiajrk33ycq7hgdba""
-ORG_NAME = ""ALGA Token""
-ORG_URL = ""https://github.com/mlandeira72/alga-token""
+﻿ACCOUNTS = ["GBDCQFOAEWH32XWR3AMK2M62HHZ2FGIV2UX7NHAYHGXIRPYIN2NBMVUQ"]
+DESCRIPTION = "Token ALGA - 20 millones de unidades en Stellar, 100% descentralizado."
+IMAGE = "https://copper-magnificent-swallow-68.mypinata.cloud/ipfs/bafkreihtypoituhildswlao4lcu4yuzpea2ani5qzaiajrk33ycq7hgdba"
+ORG_NAME = "ALGA Token"
+ORG_URL = "https://github.com/mlandeira72/alga-token"
